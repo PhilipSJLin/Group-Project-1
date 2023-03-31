@@ -40,3 +40,11 @@ Data Sources
 Analysis
 Future Considerations
 Conclusions
+
+download CSVs and look at column
+be specific about plots and questions
+is scatter plot cpi vs inflation where each dot is a country
+be as specific as possible
+want one table with country year cpi and inflation
+recommend only 1 or 2 merges of data
+simplify a bit, try to be a little less ambitious
