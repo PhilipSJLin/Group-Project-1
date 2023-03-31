@@ -7,13 +7,33 @@ A team of analysts are
 
 Research Questions to Answer
 What is the relationship between CPI and interest rates?
-Datasets to be Used
-CPI data by country over the last 12 months - 18 months
-Rough Breakdown of Tasks
+- What is the relationship between CPI and unemployment rate
+- What is the relationship between interest rate and yield curve
 
-DataSource to be used: Fred
-Examine CPI data by country over the last 12 months-18 months, what that looks like in relation to interests rate
-Other central banks
+Datasets to be Used
+Fred
+CPI data by country over the last 12 months - 18 months
+Yield Curve
+Unemployment Rate
+
+
+
+
+US, ECB--Germany (seperately), China, India
+Venezuela 
+
+inflation chart
+
+
+
+
+Rough Breakdown of Tasks:
+Presentation
+Proposal
+Cleaned out Read Me
+
+
+
 
 Objectives
 Data Sources
