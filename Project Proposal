@@ -40,6 +40,8 @@ want one table with country year cpi and inflation
 recommend only 1 or 2 merges of data
 simplify a bit, try to be a little less ambitious
 
+International Variation
+
 Project Title: A Whirlwind Year, Inflation Trends and Impacts
 
 Team Members: Anthony Parry, Colven Benjamin, Priya Jain, Philip Lin
@@ -62,4 +64,40 @@ BLS or IMF API (Inflation/CPI, Unemployment)
 BLS or IMF CSV (Top 20 Lowest Inflation Countries Only)
 FRED or IMF API (Interest Rates)
 World Bank (GDP by Country)
+
+US Only Variation
+
+Project Title: A Whirlwind Year, Inflation Trends and Impacts
+
+Team Members: Anthony Parry, Colven Benjamin, Priya Jain, Philip Lin
+
+Project Description:
+
+We are doing a 4-part analysis of inflation:
+1.	Inflation and unemployment rates over the last 20 years in the US based on CPI and BLS data points; Visual: line plot; Files: BLS API
+
+2.	Interest rate and GDP over the last 20 years in the US based; Visual: line plot; Files: Fred API
+
+(Merge points 1 and 2 into 1 table and plot)
+
+3.	Determine trend of interest rates in the US in relation to CPI/inflation over the last two years (24 months); Visual: scatter plot with regression line (as inflation increases, how are interest rates impacted?); Files: BLS CSV for data for last 24 months, FRED API for interest rate data points
+
+4.	Determine trend of unemployment rates for the US in relation to CPI/inflation over the last year (24 months); Visual: scatter plot with regression line (as inflation increases, how are unemployment rate impacted?); Files: BLS CSV for data for last 24 months, BLS API for interest rate data points
+
+5.	Predictive model that can predict inflation levels (Extra Credit?)
+
+Questions to answer:
+
+What is the relationship between inflation, unemployment, interest and GDP rates in the US over the last 20 years? What inferences can we draw keeping in mind economic cycles?
+How does CPI impact interest rates? And why?
+
+What is the relationship between CPI and unemployment rates? What are some inferences we can draw from this data?
+
+Can inflation be predicted?
+
+Data Sets to be Used:
+BLS API (Inflation/CPI, Unemployment)
+BLS CSV (Data for last 24 months)
+FRED API (Interest Rates, GDP)
+
 
