@@ -16,24 +16,15 @@ CPI data by country over the last 12 months - 18 months
 Yield Curve
 Unemployment Rate
 
-
-
-
 US, ECB--Germany (seperately), China, India
 Venezuela 
 
 inflation chart
 
-
-
-
 Rough Breakdown of Tasks:
 Presentation
 Proposal
 Cleaned out Read Me
-
-
-
 
 Objectives
 Data Sources
@@ -48,3 +39,27 @@ be as specific as possible
 want one table with country year cpi and inflation
 recommend only 1 or 2 merges of data
 simplify a bit, try to be a little less ambitious
+
+Project Title: A Whirlwind Year, Inflation Trends and Impacts
+
+Team Members: Anthony Parry, Colven Benjamin, Priya Jain, Philip Lin
+
+Project Description:
+We are doing a 4-part analysis of inflation:
+1.	Top 5 lowest and bottom 5 highest inflation countries based on CPI data points for Feb 2023 and their GDPs; Visual: table only; Files: BLS API, World Bank, IMF
+2.	Determine trend of interest rates for top 20 lowest inflation countries in relation to CPI over the last year (12 months); Visual: scatter plot with regression line; Files: BLS/World Bank/IMF CSV for top 20 lowest inflation countries, FRED API/IMF for interest rate data points
+3.	Determine trend of unemployment rates for the US in relation to CPI over the last year (12 months); Visual: line plot; Files: BLS API
+4.	Predictive model that can predict inflation levels (?)
+
+Questions to answer:
+Where is inflation the highest and lowest? What is the GDP of these countries? What is the relationship of inflation and GDP?
+How does CPI impact interest rates? And why?
+What is the relationship between CPI  and unemployment rates? What are some inferences we can draw from this data?
+Can inflation be predicted?
+
+Data Sets to be Used:
+BLS or IMF API (Inflation/CPI, Unemployment)
+BLS or IMF CSV (Top 20 Lowest Inflation Countries Only)
+FRED or IMF API (Interest Rates)
+World Bank (GDP by Country)
+
