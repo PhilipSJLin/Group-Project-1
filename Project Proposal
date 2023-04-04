@@ -8,15 +8,15 @@ Project Description:
 
 We are doing a 4-part analysis of inflation:
 1.	Inflation and unemployment rates over the last 20 years in the US based on CPI and BLS data points; Visual: line plot; Files: BLS API
-
+Philip
 2.	Interest rate and GDP over the last 20 years in the US based; Visual: line plot; Files: Fred API
-
+Priya
 (Merge points 1 and 2 into 1 table and plot)
 
 3.	Determine trend of interest rates in the US in relation to CPI/inflation over the last two years (24 months); Visual: scatter plot with regression line (as inflation increases, how are interest rates impacted?); Files: BLS CSV for data for last 24 months, FRED API for interest rate data points
-
+Colven
 4.	Determine trend of unemployment rates for the US in relation to CPI/inflation over the last year (24 months); Visual: scatter plot with regression line (as inflation increases, how are unemployment rate impacted?); Files: BLS CSV for data for last 24 months, BLS API for interest rate data points
-
+Anthony
 5.	Predictive model that can predict inflation levels (Extra Credit?)
 
 Questions to answer:
