@@ -15,15 +15,18 @@ https://github.com/PhilipSJLin/Group-Project-1
 
 How To Run Guide (What Packages Imported, Files (1 or 2 notebooks) A User Should Run To Repeat Your Process)
 
-# Install Fred API library
+Install Fred API library
 !pip install fredapi
 
-# Import Fred API
+Import Fred API
 from fredapi.version import version as __version__
 from fredapi.fred import Fred
 
-# Import the Fred and BLS API key
+Import the Fred and BLS API key
 from api_keys import fred_api_key, BLS_key
+
+Notebooks
+FRED FFR GDP UNRATE CPI Combined.ipynb
 
 List of Data Sources Consulted 
 BLS API (Inflation/CPI, Unemployment)
