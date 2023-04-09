@@ -13,17 +13,28 @@ Link To Presentation (Repo or Google Doc)
 Repository Link
 https://github.com/PhilipSJLin/Group-Project-1
 
+Powerpoint Google Doc Link
+https://docs.google.com/presentation/d/1rFRXyHEoDGeSDQ36eKq1BJsqsuLDgUItYZ9vga9daKc/edit?usp=sharing
+
 How To Run Guide (What Packages Imported, Files (1 or 2 notebooks) A User Should Run To Repeat Your Process)
 
-# Install Fred API library
+Install Fred API library
 !pip install fredapi
 
-# Import Fred API
+Import Fred API
 from fredapi.version import version as __version__
 from fredapi.fred import Fred
 
-# Import the Fred and BLS API key
+Import the Fred and BLS API key
 from api_keys import fred_api_key, BLS_key
+
+Run For Graphs On Slides: 9, 12-15, 20
+FRED FFR GDP UNRATE CPI Combined.ipynb
+
+Run For Graph On Slides: 17
+FRED FFR CPI 24 Month Scatter.ipynb
+
+Run For Graph On Slide: 18
 
 List of Data Sources Consulted 
 BLS API (Inflation/CPI, Unemployment)
