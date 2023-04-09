@@ -28,6 +28,7 @@ from fredapi.fred import Fred
 Import the Fred and BLS API key
 from api_keys import fred_api_key, BLS_key
 
+<<<<<<< HEAD
 Run For Graphs On Slides: 9, 12-15, 20
 FRED FFR GDP UNRATE CPI Combined.ipynb
 
@@ -36,6 +37,11 @@ FRED FFR CPI 24 Month Scatter.ipynb
 
 Run For Graph On Slide: 18
 
+=======
+Notebooks
+FRED FFR GDP UNRATE CPI Combined.ipynb
+
+>>>>>>> 997143d39008b7411a9aaa573d8235acf4613873
 List of Data Sources Consulted 
 BLS API (Inflation/CPI, Unemployment)
 BLS CSV (Data for last 24 months)
