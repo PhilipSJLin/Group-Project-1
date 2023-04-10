@@ -1,5 +1,3 @@
-# Group-Project-1
-
 Project Title: A Whirlwind Year, Inflation Trends and Impacts
 ----------------------------------------------------------------------
 
@@ -7,10 +5,9 @@ Team Members: Anthony Parry, Colven Benjamin, Priya Jain, Philip Lin
 
 ----------------------------------------------------------------------
 
-Project Summary
-Evaluate the impact of inflation on unemployment rates, fed funds rates in relation to GDP in the US. Analyze the last 20 years to capture the economic downturn of 2008 due to the housing market crash as well as more specifically the last 24 months to analyze the impact of the pandemic.
+Project Summary: Evaluate the impact of inflation on unemployment rates, fed funds rates in relation to GDP in the US. Analyze the last 20 years to capture the economic downturn of 2008 due to the housing market crash as well as more specifically the last 24 months to analyze the impact of the pandemic.
 
-Link To Presentation
+Links To Repository and Powerpoint Presentation
 
 Repository Link
 https://github.com/PhilipSJLin/Group-Project-1
@@ -37,22 +34,28 @@ from api_keys import fred_api_key, BLS_key
 Notebooks, CSVs
 
 Run For Graphs On Slides 9, 12-15, 19
+
 "FRED FFR GDP UNRATE CPI Combined.ipynb"
 
 Run For Graph On Slides 17
+
 "FRED FFR CPI 24 Month Scatter.ipynb"
 
 Run For Graph On Slide 18
 
+"BLS CPI UNRATE 24 Month Scatter.ipynb" using "CPI.csv" and "unemployment.csv"
+
 ----------------------------------------------------------------------
 
 List of Data Sources Consulted 
+
 BLS API (Inflation/CPI, Unemployment)
-BLS CSV (Data for last 24 months)
-FRED API (Interest Rates, GDP)
+BLS CSV (Inflation/CPI, Unemployment Data for last 24 months)
+FRED API (Interest Rates, GDP, Inflation/CPI, Unemployment)
 BEA, BLS, FRED Sites (Key Economic Definitions)
 
 Acronymns
+
 BLS: Bureau of Labor Statistics
 FRED: Federal Reserve Economic Data
 BEA: Bureau of Economic Analysis
