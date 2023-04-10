@@ -1,8 +1,7 @@
 # Group-Project-1
-Presentation
 
 Project Title: A Whirlwind Year, Inflation Trends and Impacts
-
+----------------------------------------------------------------------
 Team Members: Anthony Parry, Colven Benjamin, Priya Jain, Philip Lin
 
 Project Summary
@@ -15,7 +14,7 @@ https://github.com/PhilipSJLin/Group-Project-1
 
 Powerpoint Google Doc Link
 https://docs.google.com/presentation/d/1rFRXyHEoDGeSDQ36eKq1BJsqsuLDgUItYZ9vga9daKc/edit?usp=sharing
-
+----------------------------------------------------------------------
 How To Run Guide (What Packages Imported, Files (1 or 2 notebooks) A User Should Run To Repeat Your Process)
 
 Install Fred API library
