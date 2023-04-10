@@ -31,19 +31,16 @@ from fredapi.fred import Fred
 Import the Fred and BLS API key
 from api_keys import fred_api_key, BLS_key
 
+Install pandas-datareader
+!pip install pandas-datareader
+
 Notebooks, CSVs
 
-Run For Graphs On Slides 9, 12-15, 19
+Run For Graphs On Slides 9, 12-15, 20 "FRED FFR GDP UNRATE CPI Combined.ipynb"
 
-"FRED FFR GDP UNRATE CPI Combined.ipynb"
+Run For Graph On Slides 17 "FRED FFR CPI 24 Month Scatter.ipynb"
 
-Run For Graph On Slides 17
-
-"FRED FFR CPI 24 Month Scatter.ipynb"
-
-Run For Graph On Slide 18
-
-"BLS CPI UNRATE 24 Month Scatter.ipynb" using "CPI.csv" and "unemployment.csv"
+Run For Graph On Slide 18-19 "BLS CPI UNRATE 24 Month Scatter.ipynb" using "CPI.csv" and "unemployment.csv"
 
 ----------------------------------------------------------------------
 
