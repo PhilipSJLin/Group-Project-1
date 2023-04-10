@@ -1,9 +1,12 @@
 Project Title: A Whirlwind Year, Inflation Trends and Impacts
 ----------------------------------------------------------------------
 Team Members: Anthony Parry, Colven Benjamin, Priya Jain, Philip Lin
-
 ----------------------------------------------------------------------
-Project Summary: Evaluate the impact of inflation on unemployment rates, fed funds rates in relation to GDP in the US. Analyze the last 20 years to capture the economic downturn of 2008 due to the housing market crash as well as more specifically the last 24 months to analyze the impact of the pandemic.
+
+Project Summary: As a team, we wanted to:
+-Evaluate the impact of inflation on unemployment rates, 
+-Analyze fed funds rates in relation to GDP in the US. 
+-Analyze the last 20 years to capture the economic downturn of 2008 due to the housing market crash as well as more specifically the last 24 months to analyze the impact of the pandemic.
 
 ----------------------------------------------------------------------
 Links To Repository and Powerpoint Presentation
