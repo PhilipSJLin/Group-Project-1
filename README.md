@@ -1,12 +1,11 @@
 Project Title: A Whirlwind Year, Inflation Trends and Impacts
 ----------------------------------------------------------------------
-
 Team Members: Anthony Parry, Colven Benjamin, Priya Jain, Philip Lin
 
 ----------------------------------------------------------------------
-
 Project Summary: Evaluate the impact of inflation on unemployment rates, fed funds rates in relation to GDP in the US. Analyze the last 20 years to capture the economic downturn of 2008 due to the housing market crash as well as more specifically the last 24 months to analyze the impact of the pandemic.
 
+----------------------------------------------------------------------
 Links To Repository and Powerpoint Presentation
 
 Repository Link
@@ -16,7 +15,6 @@ Powerpoint Google Doc Link
 https://docs.google.com/presentation/d/1rFRXyHEoDGeSDQ36eKq1BJsqsuLDgUItYZ9vga9daKc/edit?usp=sharing
 
 ----------------------------------------------------------------------
-
 How To Run Guide
 
 Packages Imported
@@ -31,8 +29,11 @@ from fredapi.fred import Fred
 Import the Fred and BLS API key
 from api_keys import fred_api_key, BLS_key
 
-Install pandas-datareader
+Install pandas-datareader library
 !pip install pandas-datareader
+
+Install yfinance library 
+!pip install yfinance
 
 Notebooks, CSVs
 
