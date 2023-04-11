@@ -51,15 +51,15 @@ Run For Graph On Slide 18-19 "BLS CPI UNRATE 24 Month Scatter.ipynb" using "CPI.
 
 List of Data Sources Consulted 
 
-BLS API (Inflation/CPI, Unemployment)
-BLS CSV (Inflation/CPI, Unemployment Data for last 24 months)
-FRED API (Interest Rates, GDP, Inflation/CPI, Unemployment)
-BEA, BLS, FRED Sites (Key Economic Definitions)
+BLS API (Inflation/CPI, Unemployment) <br />
+BLS CSV (Inflation/CPI, Unemployment Data for last 24 months) <br />
+FRED API (Interest Rates, GDP, Inflation/CPI, Unemployment) <br />
+BEA, BLS, FRED Sites (Key Economic Definitions) <br />
 
 Acronymns
 
-BLS: Bureau of Labor Statistics
-FRED: Federal Reserve Economic Data
-BEA: Bureau of Economic Analysis
+BLS: Bureau of Labor Statistics <br />
+FRED: Federal Reserve Economic Data <br />
+BEA: Bureau of Economic Analysis 
 
 
