@@ -15,7 +15,7 @@ Links To Repository and Powerpoint Presentation
 Repository Link
 https://github.com/PhilipSJLin/Group-Project-1
 
-Powerpoint Google Doc Link
+Powerpoint Google Sheets Link
 https://docs.google.com/presentation/d/1rFRXyHEoDGeSDQ36eKq1BJsqsuLDgUItYZ9vga9daKc/edit?usp=sharing
 
 ----------------------------------------------------------------------
