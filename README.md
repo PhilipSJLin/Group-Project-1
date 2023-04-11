@@ -3,7 +3,8 @@ Project Title: A Whirlwind Year, Inflation Trends and Impacts
 Team Members: Anthony Parry, Colven Benjamin, Priya Jain, Philip Lin
 ----------------------------------------------------------------------
 
-Project Summary: As a team, we wanted to analyze Inflation and related variables to better understand inflation. Our tasks were to: <br />
+Project Summary: As a team, we wanted to analyze Inflation and related variables to better understand inflation. <br />
+Our tasks were to: <br />
 -Evaluate the impact of inflation on unemployment rates, <br />
 -Analyze fed funds rates in relation to GDP in the US. <br />
 -Analyze the last 20 years to capture the economic downturn of 2008 due to the housing market crash as well as more specifically the last 24 months to analyze the impact of the pandemic.
